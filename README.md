@@ -14,7 +14,7 @@ Este es un proyecto basico para la prueba de react del equipo de kase
 
 
 ## Dependencia
-Para loguararse en el aplicativo de usa el email **prueba@prueba.com** y la contraseña **123456**
+Para loguararse en el aplicativo se usa el email **prueba@prueba.com** y la contraseña **123456**
 
 - este proyecto depende de la correcta ejecución de su backend en node el cual se encuentra en:
    ```bash
