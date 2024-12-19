@@ -12,4 +12,9 @@ Este es un proyecto basico para la prueba de react del equipo de kase
 - Luego de esto ejecutar el comando **pnpm install**
 - Finalmente para correr en modo desarrollo **pnpm run dev**
 
+## Dependencia
+este proyecto depende de la correcta ejecución de su backend en node el cual se encuentra en:
+```bash
+git clone https://github.com/prueba-kase/prueba-node.git
+
 
